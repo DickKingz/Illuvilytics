@@ -1,0 +1,238 @@
+{
+  "Axolotl": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "Pterodactyl": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "SeaScorpion": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "Thylacine": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "Turtle": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "AntEater": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "Beetle": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "Dodo": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "Elk": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "Pangolin": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "PistolShrimp": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "Shoebill": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "StarNosedMole": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "Taipan": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "Snail": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "Mammoth": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "Squid": {
+    "affinity": "Air",
+    "class": "Shock"
+  },
+  "PolarBear": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "Tiktaalik": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "Monkier": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "Aapon": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "Grilla": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "Tenrec": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "KomodoDragon": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "PoodleMoth": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "Sloth": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "TreeKangaroo": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "Penguin": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "FennecFox": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "WaterBuffalo": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "TerrorBird": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "DropBear": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "RedPanda": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "Lynx": {
+    "affinity": "None",
+    "class": "None"
+  },
+  "DokaWater": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "DokaEarth": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "DokaFire": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "DokaNature": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "DokaAir": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "GrokkoWater": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "GrokkoEarth": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "GrokkoFire": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "GrokkoNature": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "GrokkoAir": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "VolanteWater": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "VolanteEarth": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "VolanteFire": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "VolanteNature": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "VolanteAir": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "FliishWater": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "FliishEarth": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "FliishFire": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "FliishNature": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "FliishAir": {
+    "affinity": "Air",
+    "class": "Air"
+  },
+  "AtippoWater": {
+    "affinity": "Water",
+    "class": "Water"
+  },
+  "AtippoEarth": {
+    "affinity": "Earth",
+    "class": "Earth"
+  },
+  "AtippoFire": {
+    "affinity": "Fire",
+    "class": "Fire"
+  },
+  "AtippoNature": {
+    "affinity": "Nature",
+    "class": "Nature"
+  },
+  "AtippoAir": {
+    "affinity": "Air",
+    "class": "Air"
+  }
+}

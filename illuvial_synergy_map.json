@@ -1,0 +1,832 @@
+{
+  "Axodon": {
+    "baseAffinity": "Water",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Tsunami"
+    ],
+    "compositeClasses": [
+      "Harbinger"
+    ]
+  },
+  "Rhamphyre": {
+    "baseAffinity": "Fire",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Inferno"
+    ],
+    "compositeClasses": [
+      "Phantom"
+    ]
+  },
+  "Ryplance": {
+    "baseAffinity": "Water",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Toxic"
+    ],
+    "compositeClasses": [
+      "Berserker"
+    ]
+  },
+  "Umbre": {
+    "baseAffinity": "Water",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Steam"
+    ],
+    "compositeClasses": [
+      "Slayer"
+    ]
+  },
+  "Archeleon": {
+    "baseAffinity": "Nature",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Verdant"
+    ],
+    "compositeClasses": [
+      "Aegis"
+    ]
+  },
+  "Vermilliare": {
+    "baseAffinity": "Air",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Spore"
+    ],
+    "compositeClasses": [
+      "Revenant"
+    ]
+  },
+  "Titanor": {
+    "baseAffinity": "Earth",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Granite"
+    ],
+    "compositeClasses": [
+      "Colossus"
+    ]
+  },
+  "Kukkaraph": {
+    "baseAffinity": "Air",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Tempest"
+    ],
+    "compositeClasses": [
+      "Enchanter"
+    ]
+  },
+  "Adorius": {
+    "baseAffinity": "Nature",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Spore"
+    ],
+    "compositeClasses": [
+      "Mystic"
+    ]
+  },
+  "Sear": {
+    "baseAffinity": "Fire",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Magma"
+    ],
+    "compositeClasses": [
+      "Behemoth"
+    ]
+  },
+  "Dualeph": {
+    "baseAffinity": "Water",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Steam"
+    ],
+    "compositeClasses": [
+      "Invoker"
+    ]
+  },
+  "Blazenite": {
+    "baseAffinity": "Nature",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Wildfire"
+    ],
+    "compositeClasses": [
+      "Templar"
+    ]
+  },
+  "Malura": {
+    "baseAffinity": "Earth",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Bloom"
+    ],
+    "compositeClasses": [
+      "Vanguard"
+    ]
+  },
+  "Scoriox": {
+    "baseAffinity": "Fire",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Magma"
+    ],
+    "compositeClasses": [
+      "Arcanite"
+    ]
+  },
+  "Seeforus": {
+    "baseAffinity": "Earth",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Granite"
+    ],
+    "compositeClasses": [
+      "Invoker"
+    ]
+  },
+  "Mah'mut": {
+    "baseAffinity": "Air",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Tempest"
+    ],
+    "compositeClasses": [
+      "Harbinger"
+    ]
+  },
+  "Ophisto": {
+    "baseAffinity": "Air",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Shock"
+    ],
+    "compositeClasses": [
+      "Invoker"
+    ]
+  },
+  "Jotun": {
+    "baseAffinity": "Air",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Frost"
+    ],
+    "compositeClasses": [
+      "Behemoth"
+    ]
+  },
+  "Geyyser": {
+    "baseAffinity": "Water",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Tsunami"
+    ],
+    "compositeClasses": [
+      "Mystic"
+    ]
+  },
+  "Exalted Monkier": {
+    "baseAffinity": "Earth",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Mud"
+    ],
+    "compositeClasses": [
+      "Berserker"
+    ]
+  },
+  "Exalted Aapon": {
+    "baseAffinity": "Earth",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Mud"
+    ],
+    "compositeClasses": [
+      "Mystic"
+    ]
+  },
+  "Exalted Grilla": {
+    "baseAffinity": "Earth",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Mud"
+    ],
+    "compositeClasses": [
+      "Predator"
+    ]
+  },
+  "Gyro": {
+    "baseAffinity": "Air",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Dust"
+    ],
+    "compositeClasses": [
+      "Slayer"
+    ]
+  },
+  "Blotto": {
+    "baseAffinity": "Nature",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Wildfire"
+    ],
+    "compositeClasses": [
+      "Aegis"
+    ]
+  },
+  "Monarch": {
+    "baseAffinity": "Fire",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Inferno"
+    ],
+    "compositeClasses": [
+      "Phantom"
+    ]
+  },
+  "Gnarl": {
+    "baseAffinity": "Nature",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Verdant"
+    ],
+    "compositeClasses": [
+      "Colossus"
+    ]
+  },
+  "Tibi'Rukko": {
+    "baseAffinity": "Fire",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Shock"
+    ],
+    "compositeClasses": [
+      "Revenant"
+    ]
+  },
+  "Slashin": {
+    "baseAffinity": "Water",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Frost"
+    ],
+    "compositeClasses": [
+      "Vanguard"
+    ]
+  },
+  "Ghazotep": {
+    "baseAffinity": "Air",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Dust"
+    ],
+    "compositeClasses": [
+      "Enchanter"
+    ]
+  },
+  "Cardulox": {
+    "baseAffinity": "Water",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Toxic"
+    ],
+    "compositeClasses": [
+      "Colossus"
+    ]
+  },
+  "Phosphorus": {
+    "baseAffinity": "Nature",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Bloom"
+    ],
+    "compositeClasses": [
+      "Arcanite"
+    ]
+  },
+  "Chukoondi": {
+    "baseAffinity": "Fire",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Wildfire"
+    ],
+    "compositeClasses": [
+      "Predator"
+    ]
+  },
+  "Rai-lee": {
+    "baseAffinity": "Fire",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Shock"
+    ],
+    "compositeClasses": [
+      "Templar"
+    ]
+  },
+  "Relentless Terralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Relentless Hydrolynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Relentless Emberlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Relentless Floralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Relentless Zephyrlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Nimble Hydrolynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Nimble Terralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Nimble Emberlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Nimble Floralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Nimble Zephyrlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Stoic Hydrolynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Stoic Terralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Stoic Emberlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Stoic Floralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Stoic Zephyrlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Arcane Hydrolynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Arcane Terralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Arcane Emberlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Arcane Floralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Arcane Zephyrlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Virtuous Hydrolynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Virtuous Terralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Virtuous Emberlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Virtuous Floralynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Virtuous Zephyrlynx": {
+    "baseAffinity": "None",
+    "baseClass": "None",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Exalted Water Doka": {
+    "baseAffinity": "Water",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Exalted Earth Doka": {
+    "baseAffinity": "Earth",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Exalted Fire Doka": {
+    "baseAffinity": "Fire",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Exalted Nature Doka": {
+    "baseAffinity": "Nature",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Exalted Air Doka": {
+    "baseAffinity": "Air",
+    "baseClass": "Fighter",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Fighter"
+    ]
+  },
+  "Exalted Water Grokko": {
+    "baseAffinity": "Water",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Exalted Earth Grokko": {
+    "baseAffinity": "Earth",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Exalted Fire Grokko": {
+    "baseAffinity": "Fire",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Exalted Nature Grokko": {
+    "baseAffinity": "Nature",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Exalted Air Grokko": {
+    "baseAffinity": "Air",
+    "baseClass": "Bulwark",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Bulwark"
+    ]
+  },
+  "Exalted Water Volante": {
+    "baseAffinity": "Water",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Exalted Earth Volante": {
+    "baseAffinity": "Earth",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Exalted Fire Volante": {
+    "baseAffinity": "Fire",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Exalted Nature Volante": {
+    "baseAffinity": "Nature",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Exalted Air Volante": {
+    "baseAffinity": "Air",
+    "baseClass": "Rogue",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Rogue"
+    ]
+  },
+  "Exalted Water Fliish": {
+    "baseAffinity": "Water",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Exalted Earth Fliish": {
+    "baseAffinity": "Earth",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Exalted Fire Fliish": {
+    "baseAffinity": "Fire",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Exalted Nature Fliish": {
+    "baseAffinity": "Nature",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Exalted Air Fliish": {
+    "baseAffinity": "Air",
+    "baseClass": "Psion",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Psion"
+    ]
+  },
+  "Exalted Water Atippo": {
+    "baseAffinity": "Water",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Water"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Exalted Earth Atippo": {
+    "baseAffinity": "Earth",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Earth"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Exalted Fire Atippo": {
+    "baseAffinity": "Fire",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Fire"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Exalted Nature Atippo": {
+    "baseAffinity": "Nature",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Nature"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  },
+  "Exalted Air Atippo": {
+    "baseAffinity": "Air",
+    "baseClass": "Empath",
+    "compositeAffinities": [
+      "Air"
+    ],
+    "compositeClasses": [
+      "Empath"
+    ]
+  }
+}
